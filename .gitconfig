@@ -1,0 +1,3 @@
+[core]
+# set to true if you are using Windows
+autocrlf = input
